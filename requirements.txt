@@ -1,0 +1,8 @@
+discord.py
+asyncio
+functools
+itertools
+math
+random
+youtube_dl
+PyNaCl
